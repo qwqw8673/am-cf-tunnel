@@ -145,6 +145,8 @@
 ## 
 ## 🧩六、节点订阅器部署  [Vercel部署视频教程](https://www.youtube.com/playlist?list=PLGVQi7TjHKXZGODTvB8DEervrmHANQ1AR) [Cloudfare部署视频教程](https://youtu.be/f8ZTvv4u3Pw)
 
+### 🚀节点订阅器项目地址 [am-cf-tunnel-sub](https://github.com/amclubs/am-cf-tunnel-sub)
+
 #### `①` Vercel方式部署 [视频教程](https://www.youtube.com/watch?v=i-XnnP-MptY&t=596s)
 <details>
 <summary>点击展开/收起</summary>
